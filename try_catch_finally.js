@@ -25,6 +25,5 @@ function  superSum(...args) {
     }
     return helper(firstArgs)
 }
-
     const result = superSum(1)(2)(3)()
     console.log(result)
