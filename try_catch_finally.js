@@ -50,9 +50,9 @@
 //
 // console.log(myFlat(arr));
 
-let i = 0;
-while (i++ < 4) {
-    setTimeout((j) => {
-        console.log(j)
-    }, i*1000, i)
-}
+// let i = 0;
+// while (i++ < 4) {
+//     setTimeout((j) => {
+//         console.log(j)
+//     }, i*1000, i)
+// }
